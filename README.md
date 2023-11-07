@@ -10,7 +10,7 @@ vision.
 
 Please refer to the [official
 instructions](https://pytorch.org/get-started/locally/) to install the stable
-versions of `torch` and `torchvision` on your system.
+versions of `Torch` and `TorchVision` on your system.
 
 To build source, refer to our [contributing
 page](https://github.com/pytorch/vision/blob/main/CONTRIBUTING.md#development-installation).
