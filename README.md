@@ -62,7 +62,7 @@ Read more in in our [docs](https://pytorch.org/vision/stable/transforms.html).
 Torchvision currently supports the following video backends:
 
 - [pyav](https://github.com/PyAV-Org/PyAV) (default) - Pythonic binding for ffmpeg libraries.
-- video_reader - This needs ffmpeg to be installed and torchvision to be built from source. There shouldn't be any
+- video_reader - This requires ffmpeg to be installed and torchvision to be built from source. There shouldn't be any
   conflicting version of ffmpeg installed. Currently, this is only supported on Linux.
 
 ```
